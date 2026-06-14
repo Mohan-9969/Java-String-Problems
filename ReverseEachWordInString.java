@@ -21,3 +21,6 @@ public class ReverseEachWordInString {
 }
     
 
+//output
+// yM eman si nahom
+
